@@ -18,7 +18,7 @@ The following GIF depicts the proposed workflow in our study. This repo implemen
 ```
 mkdir AttentionMIL
 cd AttentionMIL
-git clone git clone https://github.com/AIMLab-UBC/EC2023 .
+git clone git clone https://github.com/AIMLab-UBC/EC-p53abnlike-AIclassifier .
 pip install -r requirements.txt
 ```
 
